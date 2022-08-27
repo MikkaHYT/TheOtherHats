@@ -32,6 +32,17 @@
             "reshashc": "fe8112518a2f570649e5b89a42a826d4",
             "resource": "shiba_bounce.png"
         },
+	  {
+            "author": "Mikka",
+            "bounce": true,
+            "climbresource": "mikka_climb.png",
+            "condition": "None",
+            "name": "Mikka's Test Hat",
+            "package": "Developer Hats",
+            "reshasha": "b0167a2e11c848696262a78e8c855a60",
+            "reshashc": "fe8112518a2f570649e5b89a42a826d4",
+            "resource": "mikka.png"
+        },
         {
             "author": "Bavari",
             "bounce": true,
